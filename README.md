@@ -4,7 +4,7 @@ Taskify is a simple task management app built with React, TypeScript, Vite, and 
 
 ## Preview
 
-![Taskify Preview](/images/taskify.png)
+![Taskify Preview](./public/images//taskify.png)
 
 ## Features
 
